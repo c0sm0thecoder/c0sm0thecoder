@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ A 3rd year Computer Science student interested in Software Engineering, Deep Learning and Computer Vision.
+⚡ A software engineer with 2 years of experience with a keen interest in Software Design, Deep Learning and Computer Vision.
 
 
 ## 🌐 Socials:
