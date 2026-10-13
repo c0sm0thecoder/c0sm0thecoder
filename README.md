@@ -6,7 +6,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kamalaghazada) 
-[![Portfolio](https://img.shields.io/badge/Personal%20Website%20-FFA500)](https://kamalaghazada.codes/)
+[![Portfolio](https://img.shields.io/badge/Personal%20Website%20-FFA500)](https://c0sm0thecoder.github.io/)
 
 # 💻 Tech Stack:
 
